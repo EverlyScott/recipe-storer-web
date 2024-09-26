@@ -1,7 +1,8 @@
+import { Button } from "@mui/material";
 import { type NextPage } from "next";
 
 const Home: NextPage = () => {
-  return <h1>hi</h1>;
+  return <Button>test</Button>;
 };
 
 export default Home;
